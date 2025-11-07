@@ -3,6 +3,7 @@
 ## Background
 - [Personagem](./Personagem.md)
 - [Personagens relacionados](./Relacionados.md)
+- [Proeficiências](./Proeficiencias.md)
 
 
 ## Mecânicas
