@@ -12,10 +12,8 @@
 
 ## Audio:
 
-* [Fone 7Hz Salnotes Zero (Preto)](https://br.shp.ee/2nxrwDr)
-* [Fone QKZ x HBB](https://br.shp.ee/pszAhMz)
-* [Fone KZ D-Fi Tuned](https://pt.aliexpress.com/item/1005007875551635.html?spm=a2g0o.productlist.main.2.259b42bblOOYzk&algo_pvid=4c757be1-bc07-419e-970d-cde4379e2696&algo_exp_id=4c757be1-bc07-419e-970d-cde4379e2696-1&pdp_ext_f=%7B%22order%22%3A%22137%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21BRL%21119.59%21119.59%21%21%21147.86%21147.86%21%402103244617596549039312964ec682%2112000042657302823%21sea%21BR%21704754435%21X%211%210%21n_tag%3A-29919%3Bd%3A23d89b56%3Bm03_new_user%3A-29895&curPageLogUid=djuf9bq6Q7tm&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005007875551635%7C_p_origin_prod%3A)
-* [Fone Kuba Disco 2](https://kuba.audio/products/disco-2-classico?variant=45757915627835)
-* [Fone FiiO JT1](https://pt.aliexpress.com/item/1005007102809452.html?spm=a2g0o.productlist.main.1.7866a87cmhmYPJ&algo_pvid=35374fae-a863-4710-9977-a3fb30b1879f&algo_exp_id=35374fae-a863-4710-9977-a3fb30b1879f-0&pdp_ext_f=%7B%22order%22%3A%2213%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21BRL%21411.48%21357.99%21%21%2171.55%2162.25%21%402101e9ec17593560215804907ef6d2%2112000039408064795%21sea%21BR%21704754435%21X%211%210%21n_tag%3A-29919%3Bd%3A23d89b56%3Bm03_new_user%3A-29895&curPageLogUid=89jQPxey7E10&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005007102809452%7C_p_origin_prod%3A)
+* [Fone TRN Conch](https://alishort.com/4dQ1e)
+* [Fone CVJ Vivian](https://alishort.com/Cw7bM)
+* [Fone FiiO JT1](https://alishort.com/TxM5O)
 * [Subwoofer Edifier T5s ](https://edifier.com.br/subwoofer-t5s-70w-rms-edifier-preto.html)
 * [Caixas de som Edifier S880DB MKII](https://edifier.com.br/monitor-de-audio-bluetooth-s880db-mkii-edifier-88w-rms.html)
